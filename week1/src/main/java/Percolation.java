@@ -1,5 +1,4 @@
 public class Percolation {
-
 	int N;
 	static WeightedQuickUnionUF uf;
 	int vUpperLayer = 0;
